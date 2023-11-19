@@ -1,0 +1,88 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    color: #FFF9DB;
+}
+
+/* Image Style */
+.fixed-image {
+    width: 130%;
+    height: auto;
+}
+
+/* Container Style */
+.menu-container{
+    background: #FFF9DB;
+}
+
+.list-group-item {
+    border: none;
+    background-color: transparent;
+    padding: .75rem 1.25rem;
+}
+
+.custom-border {
+    border-width: 2px;
+    border-color: #dd2803;
+}
+
+/* Text Styles */
+
+.title-desc {
+    font-family: 'Barlow', sans-serif;
+    color: #000000;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.motto {
+    font-family: 'Barlow', sans-serif;
+    color: #dd2803;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.recipe-text{
+    font-family: 'Barlow', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    color: #dd2803;
+}
+
+.favorite-text {
+    font-family: 'Barlow', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.fav-title {
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.special-text {
+    font-family: 'Barlow', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.new-text {
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.Menu-text {
+    font-family: 'Barlow', sans-serif;
+    font-size: 120px;
+    text-align: left;
+    font-weight: bold;
+    color: #dd2803;
+}
